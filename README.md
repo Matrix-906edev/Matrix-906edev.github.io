@@ -1,6 +1,13 @@
-## Nasza 1 strona
-**O mnie**
-*Jestem programistą i gamedeveloperem*
-[YT](youtube.com)
+## Nasza Strona
+
+### O mnie
+>Jestem programistą i gamedeveloperem
+
+#### Doświadczenie
+
+ - Scratch
+ - Python
+ 
+ [YT](youtube.com)
 
 
